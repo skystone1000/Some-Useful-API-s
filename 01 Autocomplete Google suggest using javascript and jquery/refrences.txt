@@ -1,0 +1,30 @@
+<!--
+Refrences	
+
+	JavaScript | Auto Complete / Suggestion feature
+		https://www.geeksforgeeks.org/javascript-auto-complete-suggestion-feature/
+
+		https://github.com/sotayamashita/google-search-autocomplete
+
+		shreyaschand.com/blog/2013/01/03/google-autocomplete-api/
+
+	AutoComplete Jquery complete input
+		https://jqueryui.com/autocomplete/
+
+	Google Suggest API [closed]
+		https://stackoverflow.com/questions/5102878/google-suggest-api
+		
+		-----what i used here
+			https://stackoverflow.com/questions/6428502/google-search-autocomplete-api
+			https://simplestepscode.com/autocomplete-data-tutorial/
+
+		Search Protocol Reference:Query Suggestion Service /suggest Protocol
+			https://support.google.com/gsa/answer/6329266?hl=en
+
+
+	MULTIPLE words
+
+	Autocomplete Jquery multiple or each word
+		https://jqueryui.com/autocomplete/#multiple
+
+-->
