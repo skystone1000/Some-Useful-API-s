@@ -1,0 +1,20 @@
+Goole Calenders API
+
+	Integrating Google Calendar API in Python Projects
+	https://www.youtube.com/watch?v=j1mh0or2CX8&t=57s
+
+
+	Google Calendar API - Scheduling Appointments 1
+	https://www.youtube.com/watch?v=jU79KXENL5k&t=385s
+
+
+	Django: Adding Google Login
+	https://www.youtube.com/watch?v=3Cxy9FlrmVs
+
+	
+	Login with Google and Facebook account in Python/Django |All-Auth Social Login Authentication | API
+	https://www.youtube.com/watch?v=-TUEM2NCuVE
+
+
+	Google - Calendar API 
+	https://www.youtube.com/watch?v=Qd64idiKZWw&list=PLw5h0DiJ-9PCKQ3LYSnGOGjV-HLnyegup
